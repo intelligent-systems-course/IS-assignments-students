@@ -1,4 +1,4 @@
-Intelligent Systems 2020 and Project Artificial Intelligence 2020
+Intelligent Systems 2023 and Project Artificial Intelligence 2023
 =================================================================
 
 This is the practical material for the Intelligent Systems course and the Project AI, based on the
