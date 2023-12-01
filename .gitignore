@@ -143,3 +143,6 @@ schnapsen/
 
 assignment_11/ML_models/
 assignment_11/ML_replay_memories/
+
+# text outputs of assignments
+assignment_*/assignment*.txt
