@@ -3,7 +3,7 @@
 This repo contains Jupyter Notebooks / Python code assignments for the Intelligent
 Systems course, P2, VU.
 
-This repo is for the studetns **without** the answers for the assignments. That's why
+This repo is for the students **without** the answers for the assignments. That's why
 the repo is public.
 
 ## Contributing
